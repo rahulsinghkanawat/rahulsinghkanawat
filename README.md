@@ -37,7 +37,7 @@ My goal is to become a skilled Data Analyst by continuously learning new technol
 
 "Learning every day, analyzing data, and turning information into insights."
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
 
 <!--
 **rahulsinghkanawat/rahulsinghkanawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
